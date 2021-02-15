@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee96cdc0-d06b-4689-b142-db0bbeb9d950/deploy-status)](https://app.netlify.com/sites/weather-tlb/deploys)
+
 # weather
 
 ## Project setup
